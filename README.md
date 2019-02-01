@@ -61,18 +61,20 @@ GearPro Dz is a Drop Zone Gear Management System.
 - Full parachute log record with repack info.
 - Line set Tracking 
 
-<img src="https://s3.amazonaws.com/jwm-product-images/gearproImages/gearpro11.png" >
+<img src="https://s3.amazonaws.com/jwm-product-images/gearproImages/gearpro-image-01.png" >
 
-<img src="https://s3.amazonaws.com/jwm-product-images/gearproImages/gearpro-image16.png" >
+<img src="https://s3.amazonaws.com/jwm-product-images/gearproImages/gearpro-image-22.png" >
 
-<img src="https://s3.amazonaws.com/jwm-product-images/gearproImages/gearpro-image13.png" >
+<img src="https://s3.amazonaws.com/jwm-product-images/gearproImages/gearpro-image-03.png" >
 
-<img src="https://s3.amazonaws.com/jwm-product-images/gearproImages/gearpro-image14.png" >
+<img src="https://s3.amazonaws.com/jwm-product-images/gearproImages/gearpro-image-23.png" >
 
-<img src="https://s3.amazonaws.com/jwm-product-images/gearproImages/gearpro-image15.png" >
+<img src="https://s3.amazonaws.com/jwm-product-images/gearproImages/gearpro-image-05.png" >
 
 <header><h3>Packing Control Dashboard</h3></header>
 
-<img src="https://s3.amazonaws.com/jwm-product-images/gearproImages/gearpro-image9.png" >
+<img src="https://s3.amazonaws.com/jwm-product-images/gearproImages/gearpro-image-06.png" >
 
-<img src="https://s3.amazonaws.com/jwm-product-images/gearproImages/gearpro-image7.png" >
+<img src="https://s3.amazonaws.com/jwm-product-images/gearproImages/gearpro-image-07.png" >
+
+<img src="https://s3.amazonaws.com/jwm-product-images/gearproImages/gearpro-image-21.png" >
